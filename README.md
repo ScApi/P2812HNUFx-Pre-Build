@@ -1,6 +1,7 @@
 # P2812HNUFx-Pre-Build
 P2812HNUFx images and files
 
+Files are TRUNK based, BB ones can be found as source code in P2812HNUFx repo.
 <p>
 All images contain calibration data along with VDSL firmware (annex a version).
 <p>
