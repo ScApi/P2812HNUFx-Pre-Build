@@ -1,0 +1,10 @@
+dest root /
+dest ram /tmp
+lists_dir ext /var/opkg-lists
+option overlay_root /overlay
+src/gz chaos_calmer_base http://scapi.zgora.pl/packages/base
+src/gz chaos_calmer_luci http://scapi.zgora.pl/packages/luci
+src/gz chaos_calmer_management http://scapi.zgora.pl/packages/management
+src/gz chaos_calmer_packages http://scapi.zgora.pl/packages/packages
+src/gz chaos_calmer_routing http://scapi.zgora.pl/packages/routing
+src/gz chaos_calmer_telephony http://scapi.zgora.pl/packages/telephony

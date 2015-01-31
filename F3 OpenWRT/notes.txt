@@ -1,0 +1,8 @@
+OpenWRT images are based on UBI.
+Image contains luci.
+Image don't have VDSL.bin firmware, need to be uploaded to /lib/firmware after flash
+
+Included dts file for P-2812HNU-F3.
+
+Currently NOR contains only U-Boot and ENV, OpenWRT starts from NAND address 0x60000 like in F1 board, will be corrected soon, as it helps me to build/correct dts for F1 when it arrives.
+Thx to @oxo
