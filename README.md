@@ -3,7 +3,7 @@ P2812HNUFx images and files
 
 Files are BB based.
 <p>
-All images contain calibration data along with VDSL firmware (annex a/b version).
+Image contains: luci, Lantiq atm/ptm driver, wireless calibration data, VDSL firmware and luci. 
 <p>
 Annex A/B firmware can be changed (replaced to one in VDSL firmware folder) after flashing.
 <p>
