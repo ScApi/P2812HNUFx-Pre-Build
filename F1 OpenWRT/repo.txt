@@ -6,6 +6,6 @@ src/gz barrier_breaker_base http://scapi.zgora.pl/openwrt/44441/packages/base
 src/gz barrier_breaker_luci http://scapi.zgora.pl/openwrt/44441/packages/luci
 src/gz barrier_breaker_management http://scapi.zgora.pl/openwrt/44441/packages/management
 src/gz barrier_breaker_oldpackages http://scapi.zgora.pl/openwrt/44441/packages/oldpackages
-src/gz barrier_breaker_packages http://scapi.zgora.pl/openwrt/44441/packages/packages/packages
+src/gz barrier_breaker_packages http://scapi.zgora.pl/openwrt/44441/packages/packages
 src/gz barrier_breaker_routing http://scapi.zgora.pl/openwrt/44441/packages/routing
 src/gz barrier_breaker_telephony http://scapi.zgora.pl/openwrt/44441/packages/telephony
