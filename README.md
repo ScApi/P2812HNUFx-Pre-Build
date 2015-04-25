@@ -1,9 +1,9 @@
 # P2812HNUFx-Pre-Build
 P2812HNUFx images and files
 
-Files are TRUNK based, OpenWrt Chaos Calmer r45269, kernel 3.18.10.
+Files are TRUNK based, OpenWrt Chaos Calmer r45578, kernel 3.18.10.
 <p>
-Image contains: luci, Lantiq atm/ptm driver, wireless calibration data, VDSL firmware and some basic modules.
+Image contains: luci, Lantiq atm/ptm driver, wireless calibration data, VDSL firmware and some basic modules, fixed F3 WiFi.
 <p>
 Annex firmware can be changed (replaced to one in VDSL firmware folder) after flashing.
 <p>
