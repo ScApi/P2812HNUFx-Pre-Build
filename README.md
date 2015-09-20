@@ -9,7 +9,9 @@ Annex firmware can be changed (replaced to one in VDSL firmware folder) after fl
 <p>
 <p>
 ADSL/VDSL Firmware updated to:
+<p>
 5.7.4.4.1.7-5.7.1.5.0.2 - ADSL Annex B / VDSL over ISDN incl. vectoring support
+<p>
 5.7.4.4.1.7-5.7.1.8.0.1 - ADSL Annex A / VDSL over ISDN incl. vectoring support
 <p>
 LAN part reverted back to separate WAN/LAN (gets rid of "tx ring" errors)
