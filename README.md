@@ -15,6 +15,7 @@ ADSL/VDSL Firmware updated to:
 5.7.4.4.1.7-5.7.1.8.0.1 - ADSL Annex A / VDSL over ISDN incl. vectoring support
 <p>
 LAN part reverted back to separate WAN/LAN (gets rid of "tx ring" errors)
+<p>
 Flashing instruction can be found on OpenWRT wiki.
 <p>
 After flashing, software repo can be changed to one in "repo.txt". it points to packages for this builds on my server. 
