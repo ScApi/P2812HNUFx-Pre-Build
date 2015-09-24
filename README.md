@@ -1,7 +1,7 @@
 # P2812HNUFx-Pre-Build
 P2812HNUFx images and files
 
-Files are TRUNK based, OpenWrt Designated Driver r46993, kernel 3.18.21.
+Files are TRUNK based, OpenWrt Designated Driver r47026, kernel 3.18.21.
 <p>
 Image contains: luci, Lantiq atm/ptm driver, wireless calibration data, VDSL firmware and some basic modules, fixed F3 WiFi.
 <p>

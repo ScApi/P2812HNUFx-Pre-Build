@@ -1,7 +1,7 @@
-src/gz designated_driver_base http://scapi.zgora.pl/openwrt/46993/packages/base
-src/gz designated_driver_luci http://scapi.zgora.pl/openwrt/46993/packages/luci
-src/gz designated_driver_management http://scapi.zgora.pl/openwrt/46993/packages/management
-src/gz designated_driver_packages http://scapi.zgora.pl/openwrt/46993/packages/packages
-src/gz designated_driver_routing http://scapi.zgora.pl/openwrt/46993/packages/routing
-src/gz designated_driver_telephony http://scapi.zgora.pl/openwrt/46993/packages/telephony
-# src/gz designated_driver_targets http://scapi.zgora.pl/openwrt/46993/packages/targets
+src/gz designated_driver_base http://scapi.zgora.pl/openwrt/47026/packages/base
+src/gz designated_driver_luci http://scapi.zgora.pl/openwrt/47026/packages/luci
+src/gz designated_driver_management http://scapi.zgora.pl/openwrt/47026/packages/management
+src/gz designated_driver_packages http://scapi.zgora.pl/openwrt/47026/packages/packages
+src/gz designated_driver_routing http://scapi.zgora.pl/openwrt/47026/packages/routing
+src/gz designated_driver_telephony http://scapi.zgora.pl/openwrt/47026/packages/telephony
+
