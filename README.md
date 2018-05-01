@@ -1,4 +1,7 @@
 # P2812HNUFx-Pre-Build
+
+Warning this build is probably broken, plese use older one or switch to LEDE.
+<p>
 P2812HNUFx images and files
 
 Files are TRUNK based, OpenWrt Designated Driver r47026, kernel 3.18.21.
